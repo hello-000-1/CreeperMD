@@ -1,5 +1,5 @@
 {
-  "name": "TiempoMD",
+  "name": "CreeperMD",
   "version": "7.7.7",
   "description": "El Mejor bot de WhatsApp",
   "main": "index.js",
@@ -21,21 +21,21 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/thecarlos19/black-clover-MD",
+  "homepage": "https://github.com/hello-000-1/CreeperMD",
   "author": {
-    "name": "Tiempo"
+    "name": "Elvis"
   },
   "collaborators": {
-    "col1": "Antuan",
-    "col2": "Russell",
-    "col3": "Edgar"
+    "col1": "",
+    "col2": "hello-000-1",
+    "col3": "elvissihuin"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thecarlos19/black-clover-MD.git"
+    "url": "git+https://github.com/hello-000-1/CreeperMD"
   },
   "bugs": {
-    "url": "https://github.com/thecarlos19/black-clover-MD/issues"
+    "url": "https://github.com/hello-000-1/CreeperMD"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
