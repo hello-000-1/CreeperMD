@@ -1,0 +1,95 @@
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HELLO%20-TIME&fontColor=C0C0C0&descAlignY=39&descSize=22&stroke=9&animation=scaleIn&fontSize=60&reversal=true"/>
+
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=❕️+Bienvenid@+❕️+" alt="Typing SVG">
+</p>
+
+---
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=💻Te+interesa+el+mundo+de+los+códigos?+" alt="Typing SVG">
+
+
+<p align="center">
+  <img src="e9ea347d7bc199e10ac7f1592ce8abe5.gif" alt="Menú Principal">
+</p>  
+
+<p align="center">
+  <img src="20250325_231611.gif" alt="Menú Principal">
+</p>
+<p align="center">
+
+
+---
+
+### 📄 **Detalles**  
+©️ **creador** `*Elvis*`
+©️ **Reconocimiento:** `Hello-ZTMC`  
+✔️ **Comunidad:** `Fsociety`
+✔️ **Área:** `Seguridad Ofensiva `
+
+
+
+---
+## 🚀 **Explorar Recursos**  
+<p align="center">
+  <img src="ebfaca1b08a69438766ea422b10b3119.png" alt="Incógnito">
+</p>
+<p align="center">
+  <img src="c874459ad3530efb77488f88f34e1302.png" alt="Incógnito">
+</p>
+<p align="center">
+  <img src="fa4585afc057491a68394c600c82a2ab.png" alt="Incógnito">
+</p>
+<p align="center">
+  <img src="900a540a8c91c858663c0d6e61311e9f.png" alt="Incógnito">
+</p>
+## 🌐 ***Forma parte de la Comunidad*** 
+
+💬 **Canal Oficial:** [`Click,Fsociety`](https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U)  
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=+Proyectos+disponibles;WhatsApp++✅️)](https://git.io/typing-svg)  
+
+## 📊 **Estadísticas de GitHub**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deylinqff&repo=Kirito-Bot-MD&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deylinqff&repo=Kirito-Bot-MD&theme=radical&hide_border=true" alt="Racha de GitHub">
+</p>
+
+## 🌟 **CREADOR**
+
+<p align="center">
+  <a href="https://github.com/hello-000-1/TIME" target="_blank">
+    <img src="https://github.com/deylinqff.png" width="150" height="150" alt="Deylin" style="border-radius: 50%; border: 4px solid #00F7FF;"/>
+  </a>
+</p>
+
+## 👑 **Te invito A que sea parte de esta comunidad**
+
+<p align="center">
+  <a href="https://github.com/Hello-ZT15">
+    <img src="https://img.shields.io/badge/GitHub-Hello-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://wa.me/+51939467706?text=Fsociety">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="mailto:zuritre25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviame%20un%20un%20correo-EA4335?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+## 🎯 **Apoya el Proyecto**
+
+<p align="center">
+  <a href="zuritre25@gmail.com">
+    <img src="https://img.shields.io/badge/Apoya mediante PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
+  </a>
+</p>
+
+## ⚔️ [©Incógnito📌](https://Wa.me/51939467706)
+
+<p align="center">
